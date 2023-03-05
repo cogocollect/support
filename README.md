@@ -20,8 +20,8 @@ Search for the issue [here](https://github.com/cogocollect/support/search?q=&typ
 1.  Then, **describe** the bug with all the information you can give.
     Be sure to include the following information:
     * Operating System
-    * The version of Sublime Text that you're using
-    * Any related software which may cause ST to act strangely
+    * The version of Cogo Collect that you're using
+    * Any related software which may cause CC to act strangely
     * If relevant, does the bug occur with no packages installed
 
     Also keep in mind to clearly separate fact from speculation.
