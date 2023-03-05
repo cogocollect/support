@@ -1,6 +1,6 @@
 ---
 name: Bug report
-description: Create a bug report to help fix a problem with the Sublime Text core.
+description: Create a bug report to help fix a problem with Cogo Collect.
 body:
 - type: textarea
   attributes:
@@ -15,9 +15,9 @@ body:
 - type: textarea
   attributes:
     label: Steps to reproduce
-    description: "Please provide detailed steps on how the bug can be reproduced. Make sure to start ST in [safe mode](https://www.sublimetext.com/docs/safe_mode.html#) before jotting down the reproduction steps."
+    description: "Please provide detailed steps on how the bug can be reproduced."
     placeholder: |
-      1. Start ST in safe mode.
+      1. Start CC.
       2. Second step.
       3. Third step.
   validations:
@@ -36,7 +36,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: Sublime Text build number
+    label: Cogo Collect build number
     placeholder: "e.g. 4107 - type 'Help: About' in the Command Palette"
   validations:
     required: true
@@ -59,8 +59,8 @@ body:
 
       1. Information on some hardware you are using.
       2. Are you using additional monitors ?
-      3. If the bug report happens to be GIT/VCS related, share what version of GIT or Sublime Merge you are using.
-      4. NTFS related issues could include details on the NTFS you are using.
+      3. If the bug report happens to be WFS-T related, share what GIS system (GeoServer, MapServer) you are using.
+      4. Database related issues could include details on the db you are using.
 
       You get the idea.
 - type: textarea
