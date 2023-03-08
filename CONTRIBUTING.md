@@ -2,8 +2,8 @@
 
 *   **This tracker is for issues with Cogo Collect only.**
 
-*   Search for the issue [here](https://github.com/sublimehq/sublime_text/issues) to check if it was already reported.
-    You may use [labels](https://github.com/sublimehq/sublime_text/labels) for filtering the issue list by clicking any of these related to the problem you want to report or request.
+*   Search for the issue [here](https://github.com/cogocollect/support/issues) to check if it was already reported.
+    You may use [labels](https://github.com/cogocollect/support/labels) for filtering the issue list by clicking any of these related to the problem you want to report or request.
 
 
 ## Filing a bug
