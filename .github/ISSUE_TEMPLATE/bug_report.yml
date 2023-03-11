@@ -63,16 +63,3 @@ body:
       4. Database related issues could include details on the db you are using.
 
       You get the idea.
-- type: textarea
-  attributes:
-    label: OpenGL context information
-    description: "If your bug has something to do with hardware acceleration, then please share the OpenGL context information (which can be found by scrolling to the top of ST's console. You can open the console by pressing <kbd>ctrl + `</kbd>). You can find more information on ST's hardware acceleration feature [here](https://www.sublimetext.com/docs/gpu_rendering.html)."
-    placeholder: |
-      It should look something like the following
-
-      OpenGL Context Information:
-      GL API Version: 4.6.0 - Build 26.20.100.7870
-      GLSL Version: 4.60 - Build 26.20.100.7870
-      Vendor: Intel
-      Renderer: Intel(R) UHD Graphics
-    render: plain
